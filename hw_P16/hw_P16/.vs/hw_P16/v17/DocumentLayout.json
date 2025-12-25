@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeiyi\\Desktop\\hw_1225\\hw_P16\\hw_P16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD5AC98-6E16-41FB-8CF1-01DF40B23DD9}|hw_P16\\hw_P16.vcxproj|C:\\Users\\jeiyi\\Desktop\\hw_1225\\hw_P16\\hw_P16\\hw_P16\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BD5AC98-6E16-41FB-8CF1-01DF40B23DD9}|hw_P16\\hw_P16.vcxproj|solutionrelative:hw_P16\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\jeiyi\\Desktop\\hw_1225\\hw_P16\\hw_P16\\hw_P16\\main.c",
+              "RelativeDocumentMoniker": "hw_P16\\main.c",
+              "ToolTip": "C:\\Users\\jeiyi\\Desktop\\hw_1225\\hw_P16\\hw_P16\\hw_P16\\main.c",
+              "RelativeToolTip": "hw_P16\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-25T14:54:13.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
